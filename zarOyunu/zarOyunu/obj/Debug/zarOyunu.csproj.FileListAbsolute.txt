@@ -1,0 +1,10 @@
+C:\Users\oguzh\Desktop\Windows Form APP\zarOyunu\zarOyunu\bin\Debug\zarOyunu.exe.config
+C:\Users\oguzh\Desktop\Windows Form APP\zarOyunu\zarOyunu\bin\Debug\zarOyunu.exe
+C:\Users\oguzh\Desktop\Windows Form APP\zarOyunu\zarOyunu\bin\Debug\zarOyunu.pdb
+C:\Users\oguzh\Desktop\Windows Form APP\zarOyunu\zarOyunu\obj\Debug\zarOyunu.csprojAssemblyReference.cache
+C:\Users\oguzh\Desktop\Windows Form APP\zarOyunu\zarOyunu\obj\Debug\zarOyunu.Form1.resources
+C:\Users\oguzh\Desktop\Windows Form APP\zarOyunu\zarOyunu\obj\Debug\zarOyunu.Properties.Resources.resources
+C:\Users\oguzh\Desktop\Windows Form APP\zarOyunu\zarOyunu\obj\Debug\zarOyunu.csproj.GenerateResource.cache
+C:\Users\oguzh\Desktop\Windows Form APP\zarOyunu\zarOyunu\obj\Debug\zarOyunu.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\Desktop\Windows Form APP\zarOyunu\zarOyunu\obj\Debug\zarOyunu.exe
+C:\Users\oguzh\Desktop\Windows Form APP\zarOyunu\zarOyunu\obj\Debug\zarOyunu.pdb
